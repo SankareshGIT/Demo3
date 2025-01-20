@@ -1,0 +1,4 @@
+in this demo 3 repo 
+
+im created one new repo "DEMO3"
+by the way of git cmd to remotely i created this remote to add file in repo to push it github .
